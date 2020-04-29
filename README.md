@@ -16,7 +16,7 @@ You can try the [annotation demo](http://doccano.herokuapp.com).
 ![Demo image](./docs/images/demo/demo.gif)
 
 ## Features
-
+ 
 - Collaborative annotation
 - Multi-language support
 - Mobile support
